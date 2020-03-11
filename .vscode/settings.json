@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "m_smartconfig.h": "c",
+        "swtz_app.h": "c",
+        "swtz_service.h": "c"
+    }
+}

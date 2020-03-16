@@ -49,7 +49,7 @@
 #include "display_service.h"
 #include "periph_button.h"
 #include "periph_sdcard.h"
-#include "periph_spiffs.h" 0
+#include "periph_spiffs.h"
 #include "periph_wifi.h"
 #include "recorder_engine.h"
 

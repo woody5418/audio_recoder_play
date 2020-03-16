@@ -1,5 +1,5 @@
 ## Usage
-
+2020/3/16
 Prepare the audio board:
 
 - Insert a microSD card into board's slot.
